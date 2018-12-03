@@ -1,0 +1,9 @@
+com\numbers\interpreter\helper\Helper.class
+com\numbers\interpreter\natural\NumbersInterpretation.class
+com\numbers\interpreter\phone\GreekPhoneNumber$1.class
+com\numbers\interpreter\Interpreter.class
+com\numbers\interpreter\phone\GreekPhoneNumber$prefix.class
+com\numbers\interpreter\App.class
+com\numbers\interpreter\phone\GreekPhoneNumber.class
+com\numbers\interpreter\phone\PhoneNumber.class
+com\numbers\interpreter\natural\GreekNumbersInterpretion.class
